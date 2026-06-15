@@ -3,3 +3,7 @@ merege practice file2.txt mergerd form feature-login branch
 
 after merging delete the feature breanch 
 git branch -d feature-login
+
+
+//practice fetch add this line form github 
+run git fatch commnad 

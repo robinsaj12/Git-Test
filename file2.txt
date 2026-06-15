@@ -1,1 +1,4 @@
 this is  echo practice 7 
+merege practice file2.txt mergerd form feature-login branch
+after merging delete the feature breanch 
+git branch -d feature-login

@@ -16,3 +16,5 @@ now git is reset and foir new commit this is new text
 //adding changes to practice reset mixed 
 git reset --mixed HEAD~1
 
+//this is for practicing reset --hard 
+git resest --hard HEAD~A 

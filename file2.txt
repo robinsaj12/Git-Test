@@ -12,3 +12,7 @@ run git fatch commnad
 git reset --soft HEAD~1
 
 now git is reset and foir new commit this is new text 
+
+//adding changes to practice reset mixed 
+git reset --mixed HEAD~1
+

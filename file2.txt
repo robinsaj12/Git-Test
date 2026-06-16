@@ -20,3 +20,6 @@ git reset --mixed HEAD~1
 //this is for practicing reset --hard 
 git resest --hard HEAD~A 
 
+
+//this is first stash code 
+run stash

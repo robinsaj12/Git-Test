@@ -8,6 +8,7 @@ git branch -d feature-login
 //practice fetch add this line form github 
 run git fatch commnad 
 
+
 //practicing git reset 
 git reset --soft HEAD~1
 
@@ -18,3 +19,4 @@ git reset --mixed HEAD~1
 
 //this is for practicing reset --hard 
 git resest --hard HEAD~A 
+
